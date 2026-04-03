@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.conteudo-principal {
+    background-color: blue;
+    color: aliceblue;
+    padding: 20px;
+    width: 400px;
+    height: 4000px;
+}
